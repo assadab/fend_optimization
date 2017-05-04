@@ -11,7 +11,9 @@ This is the 4th project in Udacity's Front End Development Project
 
 - Minify the CSS and HTML files.
 - Compress images with ImageOptim. 
-- Styles inlinex in index.html
+- Styles inlined in index.html
 - Add print style media query
 - Put scripts under the page's body 
 - Add async property to scripts
+- Replace querySelector with getElementById
+
