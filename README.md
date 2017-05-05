@@ -18,7 +18,7 @@ This is the 4th project in Udacity's Front End Development Project. To view a li
 6. Removed Google Fonts
 7. Added cache control meta tags as shown in example:
 
- ' <meta http-equiv="Cache-control" content="public"> '
+  <meta http-equiv="Cache-control" content="public"> 
 
 
  #### Part 2: Optimize Frames per Second in pizza.html
