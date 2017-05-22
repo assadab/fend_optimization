@@ -7,6 +7,10 @@ This is the 4th project in Udacity's Front End Development Project. To view a li
 - Improve the PageScore of the index.html to at least 90 for mobile and desktop.
 - Optimization of Main.js to achieve 60 fps in pizza.html
 
+# How to open application
+
+Download the repository in your computer, unzip it and open index.html in your browser to see the working tests.
+
 #### Part 1:  Optimize PageSpeed Insights score for index.html
 
 
